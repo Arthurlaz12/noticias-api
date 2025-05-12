@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f0f0f0;
+}
+#container-cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ccc;
+  padding: 15px;
+  width: 300px;
+}
+.card img {
+  width: 100%;
+  border-radius: 6px;
+}
+.card h2 {
+  font-size: 1.2em;
+  margin: 10px 0 5px;
+}
+.card p {
+  font-size: 0.95em;
+  color: #333;
+}
+.card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0077cc;
+  text-decoration: none;
+}
+#detalhes-container img {
+  max-width: 100%;
+  border-radius: 8px;
+}

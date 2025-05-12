@@ -1,0 +1,34 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Prefeitura Lança Novo Plano de Mobilidade Urbana",
+      "descricao": "Novo plano visa melhorar o transporte público e reduzir o trânsito na cidade.",
+      "conteudo": "A Prefeitura apresentou um novo plano com corredores exclusivos de ônibus, ciclovias e requalificação de vias.",
+      "categoria": "Cidades",
+      "autor": "Joana Ribeiro",
+      "data": "2025-03-30",
+      "imagem": "img/mobilidade.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Tecnologia 6G Está em Desenvolvimento",
+      "descricao": "Pesquisadores anunciam avanços na próxima geração de redes móveis.",
+      "conteudo": "Universidades e empresas testam tecnologias para o 6G, prometendo 100x mais velocidade que o 5G.",
+      "categoria": "Tecnologia",
+      "autor": "Carlos Mendes",
+      "data": "2025-03-28",
+      "imagem": "img/tecnologia_6g.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Festival de Música Reúne Mais de 50 Mil Pessoas",
+      "descricao": "Evento cultural movimentou o final de semana com atrações nacionais e internacionais.",
+      "conteudo": "Mais de 40 artistas participaram do festival que também contou com atividades culturais e gastronômicas.",
+      "categoria": "Cultura",
+      "autor": "Ana Clara Silva",
+      "data": "2025-03-27",
+      "imagem": "img/festival_musica.jpg"
+    }
+  ]
+}
